@@ -21,12 +21,15 @@ This project demonstrates how to build a responsive online store layout with pro
 
 📸 Screenshots
 🏠 Home Page – Product Listing
+
 <img width="398" height="640" alt="image" src="https://github.com/user-attachments/assets/7d493243-4d64-4d1c-b047-f5fc829a9685" />
 
 🔍 Product Filtering
-     <img width="879" height="582" alt="image" src="https://github.com/user-attachments/assets/32acdb97-d50a-45af-811a-2c3797483ad7" />
+
+<img width="879" height="582" alt="image" src="https://github.com/user-attachments/assets/32acdb97-d50a-45af-811a-2c3797483ad7" />
 
 🛒 Shopping Cart
-      <img width="395" height="619" alt="image" src="https://github.com/user-attachments/assets/dffe9064-9631-4f66-8fd0-603d957b0725" />
+
+  <img width="395" height="619" alt="image" src="https://github.com/user-attachments/assets/dffe9064-9631-4f66-8fd0-603d957b0725" />
 
 
